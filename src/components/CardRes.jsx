@@ -21,7 +21,7 @@ const CardRes = ({ res }) => {
         </div>
         <div className="flex flex-row justify-between text-white">
           <div>
-            <p className="text-xs font-medium">Телефонtt</p>
+            <p className="text-xs font-medium">Телефон</p>
             <p className="text-xs">{res.tel}</p>
           </div>
           <div>
